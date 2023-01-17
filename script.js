@@ -77,7 +77,7 @@ function vm () {
 function ΔS () {
 
     divs.inputs.innerHTML = `<strong>Informe:</strong> <br>
-                             ΔS = <blank>a</blank> VM <blank>a</blank> * <blank>a</blank> ΔT <br>
+                             ΔS = <blank>a</blank> VM <blank>a</blank> / <blank>a</blank> ΔT <br>
                              ΔS = <input type="number" class="num"> / <input type="number" class="num">`
 
     divs.vmWay.innerHTML = ''
